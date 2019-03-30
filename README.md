@@ -4,6 +4,7 @@
 
 ### Python
 ```python 
+pip install -r requirements.txt
 SLACK_API_TOKEN="slack-token" GITHUB_API_TOKEN="github-token" REPOSITORY="repo-name" SLACK_CHANNEL="#channel-name" python slack_pull_reminder.py
 ```
 
